@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-directives-new"
+    }
+  },
+  "defaultProject": "angular-directives-new",
+  "cli": {
+    "analytics": "fee3e884-79a2-45ad-8041-aa413324b4fe"
+  }
 }
